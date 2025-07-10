@@ -2,10 +2,9 @@
 
 ## Contact
  Author: Bryan Quaife (Florida State University, Department of
- Scientific Computing)
-
- Email: bquaife@fsu.edu
- Date: 2025-07-09
+ Scientific Computing)  
+ Email: bquaife@fsu.edu  
+ Date: 2025-07-09  
 
 ## Description:
  Run a Monte-Carlo simulation to compute probabilities that N bugs
